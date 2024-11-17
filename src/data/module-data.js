@@ -1,602 +1,602 @@
 export const data = [
   {
 	id: 1,
-	name: "Waleria",
-	birth: "1988-11-28",
-	eyes: "hazel"
-  },
-  {
-	id: 2,
-	name: "Radomir",
-	birth: "1980-10-28",
-	eyes: "green"
-  },
-  {
-	id: 3,
-	name: "Jacek",
-	birth: "1996-03-01",
-	eyes: "grey"
-  },
-  {
-	id: 4,
-	name: "Radomir",
-	birth: "1981-11-15",
-	eyes: "green"
-  },
-  {
-	id: 5,
-	name: "Karol",
-	birth: "2005-11-12",
-	eyes: "green"
-  },
-  {
-	id: 6,
-	name: "Inga",
-	birth: "1998-07-04",
+	name: "Rufin",
+	birth: "2006-06-04",
 	eyes: "brown"
   },
   {
-	id: 7,
-	name: "Ryszard",
-	birth: "1984-06-07",
+	id: 2,
+	name: "Edmund",
+	birth: "1989-09-11",
+	eyes: "blue"
+  },
+  {
+	id: 3,
+	name: "Kacper",
+	birth: "1990-10-30",
 	eyes: "green"
   },
   {
+	id: 4,
+	name: "Jacek",
+	birth: "1985-05-26",
+	eyes: "brown"
+  },
+  {
+	id: 5,
+	name: "Cyryl",
+	birth: "1985-10-22",
+	eyes: "blue"
+  },
+  {
+	id: 6,
+	name: "Kazimierz",
+	birth: "1995-04-28",
+	eyes: "hazel"
+  },
+  {
+	id: 7,
+	name: "Zenon",
+	birth: "1981-08-03",
+	eyes: "grey"
+  },
+  {
 	id: 8,
-	name: "Konstanty",
-	birth: "1991-10-05",
+	name: "Stefania",
+	birth: "2005-12-01",
 	eyes: "green"
   },
   {
 	id: 9,
-	name: "Sławomir",
-	birth: "1990-08-29",
-	eyes: "grey"
+	name: "Barbara",
+	birth: "1988-09-02",
+	eyes: "brown"
   },
   {
 	id: 10,
-	name: "Urszula",
-	birth: "1982-08-13",
+	name: "Mieczysław",
+	birth: "1985-12-22",
 	eyes: "hazel"
   },
   {
 	id: 11,
-	name: "Bolesław",
-	birth: "1989-07-03",
-	eyes: "grey"
+	name: "Andrzej",
+	birth: "1994-09-30",
+	eyes: "hazel"
   },
   {
 	id: 12,
-	name: "Anatol",
-	birth: "1995-04-11",
+	name: "Mirosław",
+	birth: "2000-01-23",
 	eyes: "green"
   },
   {
 	id: 13,
-	name: "Anastazja",
-	birth: "2004-11-13",
-	eyes: "brown"
+	name: "Tomasz",
+	birth: "2007-06-10",
+	eyes: "grey"
   },
   {
 	id: 14,
-	name: "Filip",
-	birth: "1987-07-10",
-	eyes: "brown"
+	name: "Angelina",
+	birth: "2002-12-12",
+	eyes: "hazel"
   },
   {
 	id: 15,
-	name: "Hugon",
-	birth: "1990-05-05",
-	eyes: "brown"
-  },
-  {
-	id: 16,
-	name: "Bożydar",
-	birth: "1985-02-25",
-	eyes: "grey"
-  },
-  {
-	id: 17,
-	name: "Gertruda",
-	birth: "1999-07-27",
-	eyes: "grey"
-  },
-  {
-	id: 18,
-	name: "Emil",
-	birth: "1997-04-27",
-	eyes: "grey"
-  },
-  {
-	id: 19,
-	name: "Natasza",
-	birth: "1995-05-22",
-	eyes: "brown"
-  },
-  {
-	id: 20,
-	name: "Nikodem",
-	birth: "1992-07-19",
-	eyes: "blue"
-  },
-  {
-	id: 21,
-	name: "Maria",
-	birth: "1993-08-06",
+	name: "Gabriela",
+	birth: "2009-10-28",
 	eyes: "green"
   },
   {
+	id: 16,
+	name: "Jagoda",
+	birth: "1985-10-30",
+	eyes: "hazel"
+  },
+  {
+	id: 17,
+	name: "Izold",
+	birth: "2007-01-18",
+	eyes: "brown"
+  },
+  {
+	id: 18,
+	name: "Sebastian",
+	birth: "1989-12-24",
+	eyes: "brown"
+  },
+  {
+	id: 19,
+	name: "Emilia",
+	birth: "1984-08-10",
+	eyes: "green"
+  },
+  {
+	id: 20,
+	name: "Jowita",
+	birth: "2007-06-16",
+	eyes: "brown"
+  },
+  {
+	id: 21,
+	name: "Jarosław",
+	birth: "2000-06-09",
+	eyes: "hazel"
+  },
+  {
 	id: 22,
-	name: "Katarzyna",
-	birth: "2000-04-29",
+	name: "Balbina",
+	birth: "1984-09-23",
 	eyes: "hazel"
   },
   {
 	id: 23,
-	name: "Iwo",
-	birth: "2010-01-29",
+	name: "Hipolit",
+	birth: "1992-12-19",
 	eyes: "green"
   },
   {
 	id: 24,
-	name: "Sebastian",
-	birth: "1987-02-16",
-	eyes: "grey"
+	name: "Rozanna",
+	birth: "1991-03-08",
+	eyes: "blue"
   },
   {
 	id: 25,
-	name: "Izold",
-	birth: "1993-08-19",
-	eyes: "grey"
+	name: "Monika",
+	birth: "1997-03-22",
+	eyes: "hazel"
   },
   {
 	id: 26,
-	name: "Teresa",
-	birth: "2009-09-13",
-	eyes: "grey"
+	name: "Wioletta",
+	birth: "1991-08-10",
+	eyes: "hazel"
   },
   {
 	id: 27,
-	name: "Urszula",
-	birth: "1987-05-27",
+	name: "Albert",
+	birth: "2001-02-23",
 	eyes: "grey"
   },
   {
 	id: 28,
-	name: "Norbert",
-	birth: "1983-02-28",
+	name: "Ewa",
+	birth: "1992-11-06",
 	eyes: "blue"
   },
   {
 	id: 29,
-	name: "Jadwiga",
-	birth: "2001-05-01",
-	eyes: "brown"
-  },
-  {
-	id: 30,
-	name: "Serafin",
-	birth: "1991-03-11",
-	eyes: "green"
-  },
-  {
-	id: 31,
-	name: "Ignacy",
-	birth: "2008-05-19",
-	eyes: "grey"
-  },
-  {
-	id: 32,
-	name: "Aniela",
-	birth: "1981-05-07",
-	eyes: "blue"
-  },
-  {
-	id: 33,
-	name: "Lilianna",
-	birth: "2001-09-07",
+	name: "Mateusz",
+	birth: "1989-04-01",
 	eyes: "hazel"
   },
   {
+	id: 30,
+	name: "Eleonora",
+	birth: "1980-11-27",
+	eyes: "hazel"
+  },
+  {
+	id: 31,
+	name: "Zuzanna",
+	birth: "2008-06-13",
+	eyes: "hazel"
+  },
+  {
+	id: 32,
+	name: "Leon",
+	birth: "1993-09-07",
+	eyes: "grey"
+  },
+  {
+	id: 33,
+	name: "Mirosław",
+	birth: "1996-12-12",
+	eyes: "brown"
+  },
+  {
 	id: 34,
-	name: "Albina",
-	birth: "1990-05-10",
-	eyes: "green"
+	name: "Jędrzej",
+	birth: "1986-08-03",
+	eyes: "grey"
   },
   {
 	id: 35,
-	name: "Olaf",
-	birth: "2002-12-06",
+	name: "Mirosław",
+	birth: "1980-07-30",
 	eyes: "grey"
   },
   {
 	id: 36,
-	name: "Zenobia",
-	birth: "2005-02-13",
-	eyes: "brown"
+	name: "Stanisław",
+	birth: "2001-11-10",
+	eyes: "blue"
   },
   {
 	id: 37,
-	name: "Zygmunt",
-	birth: "1998-01-24",
-	eyes: "blue"
+	name: "Konrad",
+	birth: "1987-11-24",
+	eyes: "green"
   },
   {
 	id: 38,
-	name: "Dawid",
-	birth: "2005-02-15",
-	eyes: "brown"
+	name: "Teodora",
+	birth: "1999-09-30",
+	eyes: "grey"
   },
   {
 	id: 39,
-	name: "Honorata",
-	birth: "1987-06-24",
-	eyes: "blue"
+	name: "Sonia",
+	birth: "1990-06-20",
+	eyes: "hazel"
   },
   {
 	id: 40,
-	name: "Patrycja",
-	birth: "1999-05-16",
-	eyes: "brown"
+	name: "Janina",
+	birth: "1984-05-14",
+	eyes: "hazel"
   },
   {
 	id: 41,
-	name: "Hektor",
-	birth: "1998-11-20",
-	eyes: "green"
+	name: "Julian",
+	birth: "2006-03-26",
+	eyes: "grey"
   },
   {
 	id: 42,
-	name: "Eleonora",
-	birth: "1981-09-05",
-	eyes: "green"
+	name: "Emilian",
+	birth: "1993-02-18",
+	eyes: "blue"
   },
   {
 	id: 43,
-	name: "Wioleta",
-	birth: "1984-05-10",
-	eyes: "green"
+	name: "Marcin",
+	birth: "1997-07-04",
+	eyes: "hazel"
   },
   {
 	id: 44,
-	name: "Natalia",
-	birth: "1996-08-28",
+	name: "Paulina",
+	birth: "2000-11-12",
 	eyes: "brown"
   },
   {
 	id: 45,
-	name: "Wojciech",
-	birth: "1997-04-10",
-	eyes: "brown"
+	name: "Renata",
+	birth: "1982-07-23",
+	eyes: "grey"
   },
   {
 	id: 46,
-	name: "Marianna",
-	birth: "2004-07-28",
-	eyes: "grey"
+	name: "Ewa",
+	birth: "1997-09-04",
+	eyes: "green"
   },
   {
 	id: 47,
-	name: "Adam",
-	birth: "1983-03-17",
-	eyes: "hazel"
+	name: "Krzesimir",
+	birth: "1999-01-30",
+	eyes: "grey"
   },
   {
 	id: 48,
-	name: "Orest",
-	birth: "1988-11-18",
-	eyes: "brown"
+	name: "Norbert",
+	birth: "1994-04-21",
+	eyes: "hazel"
   },
   {
 	id: 49,
-	name: "Jerzy",
-	birth: "2007-05-16",
-	eyes: "hazel"
-  },
-  {
-	id: 50,
-	name: "Krystian",
-	birth: "1986-10-16",
-	eyes: "grey"
-  },
-  {
-	id: 51,
-	name: "Zofia",
-	birth: "1988-08-18",
+	name: "Mirosław",
+	birth: "2006-10-19",
 	eyes: "brown"
   },
   {
-	id: 52,
-	name: "Sławomir",
-	birth: "2004-05-12",
-	eyes: "grey"
+	id: 50,
+	name: "Violetta",
+	birth: "1984-10-08",
+	eyes: "brown"
   },
   {
-	id: 53,
-	name: "Bonifacy",
-	birth: "1990-04-14",
+	id: 51,
+	name: "Hanna",
+	birth: "1997-03-28",
 	eyes: "hazel"
   },
   {
+	id: 52,
+	name: "Antoni",
+	birth: "1997-10-30",
+	eyes: "brown"
+  },
+  {
+	id: 53,
+	name: "Edmund",
+	birth: "1993-09-20",
+	eyes: "blue"
+  },
+  {
 	id: 54,
-	name: "Danuta",
-	birth: "1997-05-19",
+	name: "Baltazar",
+	birth: "2006-05-22",
 	eyes: "blue"
   },
   {
 	id: 55,
-	name: "Agnieszka",
-	birth: "1980-03-07",
-	eyes: "green"
+	name: "Ida",
+	birth: "1987-05-08",
+	eyes: "grey"
   },
   {
 	id: 56,
-	name: "Dorota",
-	birth: "1998-07-27",
+	name: "Wiesław",
+	birth: "2002-09-17",
 	eyes: "blue"
   },
   {
 	id: 57,
-	name: "Jacek",
-	birth: "1996-03-28",
+	name: "Szczepan",
+	birth: "1993-09-19",
 	eyes: "grey"
   },
   {
 	id: 58,
-	name: "Stanisław",
-	birth: "1998-11-23",
-	eyes: "brown"
+	name: "Gertruda",
+	birth: "1996-06-09",
+	eyes: "blue"
   },
   {
 	id: 59,
-	name: "Nina",
-	birth: "1997-08-26",
-	eyes: "blue"
+	name: "Teodozja",
+	birth: "2009-04-30",
+	eyes: "grey"
   },
   {
 	id: 60,
-	name: "Robert",
-	birth: "2004-01-21",
-	eyes: "hazel"
+	name: "Benedykt",
+	birth: "1984-06-07",
+	eyes: "green"
   },
   {
 	id: 61,
-	name: "Beniamin",
-	birth: "2010-02-22",
-	eyes: "grey"
+	name: "Justyna",
+	birth: "2009-09-07",
+	eyes: "green"
   },
   {
 	id: 62,
-	name: "Grzegorz",
-	birth: "1991-06-14",
-	eyes: "brown"
-  },
-  {
-	id: 63,
-	name: "Olaf",
-	birth: "2002-01-21",
+	name: "Tristan",
+	birth: "1987-09-18",
 	eyes: "blue"
   },
   {
+	id: 63,
+	name: "Anna",
+	birth: "2002-02-14",
+	eyes: "brown"
+  },
+  {
 	id: 64,
-	name: "Agnieszka",
-	birth: "2002-09-15",
-	eyes: "grey"
+	name: "Helena",
+	birth: "1992-02-22",
+	eyes: "brown"
   },
   {
 	id: 65,
-	name: "Sonia",
-	birth: "2004-05-23",
-	eyes: "brown"
+	name: "Emil",
+	birth: "1983-08-25",
+	eyes: "grey"
   },
   {
 	id: 66,
-	name: "Konstanty",
-	birth: "1994-01-08",
-	eyes: "brown"
+	name: "Teodozja",
+	birth: "1993-08-03",
+	eyes: "green"
   },
   {
 	id: 67,
-	name: "Emilia",
-	birth: "2002-02-07",
-	eyes: "hazel"
+	name: "Emanuela",
+	birth: "1996-08-24",
+	eyes: "blue"
   },
   {
 	id: 68,
-	name: "Augustyn",
-	birth: "1996-05-15",
+	name: "Piotr",
+	birth: "1983-02-21",
 	eyes: "green"
   },
   {
 	id: 69,
-	name: "Nikola",
-	birth: "2009-10-21",
+	name: "Sylwia",
+	birth: "2007-01-17",
 	eyes: "green"
   },
   {
 	id: 70,
-	name: "Marcin",
-	birth: "1987-02-06",
-	eyes: "brown"
-  },
-  {
-	id: 71,
-	name: "Izabela",
-	birth: "2003-11-22",
+	name: "Benedykt",
+	birth: "2000-06-03",
 	eyes: "hazel"
   },
   {
-	id: 72,
-	name: "Norberta",
-	birth: "1988-03-16",
+	id: 71,
+	name: "Agata",
+	birth: "1988-04-07",
 	eyes: "green"
   },
   {
+	id: 72,
+	name: "Tomasz",
+	birth: "2006-05-16",
+	eyes: "grey"
+  },
+  {
 	id: 73,
-	name: "Waleria",
-	birth: "1996-01-08",
+	name: "Jolanta",
+	birth: "1996-04-09",
 	eyes: "blue"
   },
   {
 	id: 74,
-	name: "Renata",
-	birth: "2001-03-16",
-	eyes: "hazel"
+	name: "Konstanty",
+	birth: "1999-02-08",
+	eyes: "blue"
   },
   {
 	id: 75,
-	name: "Samuel",
-	birth: "1989-02-23",
+	name: "Sławomir",
+	birth: "2009-10-03",
 	eyes: "brown"
   },
   {
 	id: 76,
-	name: "Sabina",
-	birth: "2006-01-20",
-	eyes: "hazel"
+	name: "Filip",
+	birth: "1982-10-02",
+	eyes: "brown"
   },
   {
 	id: 77,
-	name: "Bernarda",
-	birth: "1993-06-30",
-	eyes: "blue"
+	name: "Michaela",
+	birth: "1991-02-06",
+	eyes: "brown"
   },
   {
 	id: 78,
-	name: "Jacek",
-	birth: "1992-08-25",
-	eyes: "grey"
+	name: "Klara",
+	birth: "1982-11-25",
+	eyes: "brown"
   },
   {
 	id: 79,
-	name: "Krystian",
-	birth: "1985-09-16",
-	eyes: "grey"
+	name: "Leszek",
+	birth: "2005-01-03",
+	eyes: "green"
   },
   {
 	id: 80,
-	name: "Krystian",
-	birth: "1991-04-30",
+	name: "Alojzy",
+	birth: "2006-02-19",
 	eyes: "grey"
   },
   {
 	id: 81,
-	name: "Mirosława",
-	birth: "1984-08-21",
+	name: "Maja",
+	birth: "1998-12-22",
 	eyes: "green"
   },
   {
 	id: 82,
-	name: "Sabina",
-	birth: "1983-03-28",
-	eyes: "green"
+	name: "Marcjanna",
+	birth: "2007-09-20",
+	eyes: "grey"
   },
   {
 	id: 83,
-	name: "Otyliusz",
-	birth: "1984-12-07",
-	eyes: "brown"
-  },
-  {
-	id: 84,
-	name: "Krzesimir",
-	birth: "2006-04-23",
-	eyes: "green"
-  },
-  {
-	id: 85,
-	name: "Zyta",
-	birth: "1992-10-18",
-	eyes: "brown"
-  },
-  {
-	id: 86,
-	name: "Anna",
-	birth: "2007-03-09",
+	name: "Lucyna",
+	birth: "1999-02-11",
 	eyes: "blue"
   },
   {
-	id: 87,
-	name: "Zbigniew",
-	birth: "2005-02-08",
+	id: 84,
+	name: "Renata",
+	birth: "2002-05-14",
+	eyes: "hazel"
+  },
+  {
+	id: 85,
+	name: "Ferdynand",
+	birth: "1999-09-04",
+	eyes: "green"
+  },
+  {
+	id: 86,
+	name: "Serafina",
+	birth: "2009-03-08",
 	eyes: "brown"
   },
   {
+	id: 87,
+	name: "Teodor",
+	birth: "2008-11-13",
+	eyes: "green"
+  },
+  {
 	id: 88,
-	name: "Rozalia",
-	birth: "1981-03-25",
+	name: "Teodozjusz",
+	birth: "1986-01-29",
 	eyes: "grey"
   },
   {
 	id: 89,
-	name: "Jadwiga",
-	birth: "1992-04-08",
-	eyes: "hazel"
-  },
-  {
-	id: 90,
-	name: "Olaf",
-	birth: "2007-11-28",
-	eyes: "hazel"
-  },
-  {
-	id: 91,
-	name: "Lucyna",
-	birth: "1993-11-05",
-	eyes: "blue"
-  },
-  {
-	id: 92,
-	name: "Hanna",
-	birth: "1991-01-19",
-	eyes: "blue"
-  },
-  {
-	id: 93,
-	name: "Gabriela",
-	birth: "1984-04-20",
-	eyes: "blue"
-  },
-  {
-	id: 94,
-	name: "Cezary",
-	birth: "1990-12-04",
-	eyes: "hazel"
-  },
-  {
-	id: 95,
-	name: "Marcin",
-	birth: "1998-07-08",
-	eyes: "blue"
-  },
-  {
-	id: 96,
-	name: "Wioleta",
-	birth: "1980-06-13",
-	eyes: "green"
-  },
-  {
-	id: 97,
-	name: "Kordian",
-	birth: "1995-11-23",
-	eyes: "hazel"
-  },
-  {
-	id: 98,
-	name: "Damian",
-	birth: "2003-10-23",
+	name: "Benedykta",
+	birth: "1981-05-02",
 	eyes: "grey"
   },
   {
+	id: 90,
+	name: "Mirosław",
+	birth: "1981-03-10",
+	eyes: "brown"
+  },
+  {
+	id: 91,
+	name: "Leopold",
+	birth: "2002-01-27",
+	eyes: "grey"
+  },
+  {
+	id: 92,
+	name: "Marcelina",
+	birth: "2009-05-08",
+	eyes: "hazel"
+  },
+  {
+	id: 93,
+	name: "Olaf",
+	birth: "1988-10-31",
+	eyes: "grey"
+  },
+  {
+	id: 94,
+	name: "Izold",
+	birth: "1985-12-06",
+	eyes: "brown"
+  },
+  {
+	id: 95,
+	name: "Emil",
+	birth: "1994-06-13",
+	eyes: "brown"
+  },
+  {
+	id: 96,
+	name: "Sylwia",
+	birth: "1998-03-26",
+	eyes: "brown"
+  },
+  {
+	id: 97,
+	name: "Eryk",
+	birth: "1988-01-28",
+	eyes: "blue"
+  },
+  {
+	id: 98,
+	name: "Bonifacy",
+	birth: "1991-11-09",
+	eyes: "hazel"
+  },
+  {
 	id: 99,
-	name: "Konstanty",
-	birth: "1989-07-07",
+	name: "Ferdynand",
+	birth: "1984-11-28",
 	eyes: "green"
   },
   {
 	id: 100,
-	name: "Tomasz",
-	birth: "2007-05-14",
-	eyes: "grey"
+	name: "Violetta",
+	birth: "1986-07-25",
+	eyes: "hazel"
   },
 ];
