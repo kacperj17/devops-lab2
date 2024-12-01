@@ -1,10 +1,19 @@
 import { useParams } from "react-router-dom";
+import { useEffect, useState } from "react";
 
-import { data } from "../data/module-data";
 import PersonProfile from "../components/PersonProfile";
 
 function Lab2Page() {
   const { id } = useParams();
+
+  const [data, setData] = useState([]);
+
+  useEffect(() => {
+    fetch('http://localhost:4000/generate-data?count=100') // adres backendu
+      .then(response => response.json())
+      .then(fetchedData => setData(fetchedData))
+      .catch(error => console.error('Error fetching data:', error));
+  }, []);
 
   return (
     <>
