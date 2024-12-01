@@ -15,3 +15,11 @@ TO RUN DOCKER BUILD:
 ```
 docker run -itd -p 3000:3000 my-vite-app
 ```
+TO BUILD DOCKER COMPOSE:
+```
+docker compose build
+```
+TO RUN DOCKER COMPOSE:
+```
+docker compose up -d
+```
